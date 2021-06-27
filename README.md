@@ -1,7 +1,7 @@
 ### Hi there, Curiosidad Sin Limites - aka [Curiosidad Sin Limites][website] 👋
 
 [![Website](https://img.shields.io/website?label=https://sites.google.com/view/gran-muralla-verde/&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sites.google.com/view/gran-muralla-verde/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://twitter.com/CuriosidadSin%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://twitter.com/CuriosidadSin%2FCuriosidad Sin Limites&screen_name=)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
