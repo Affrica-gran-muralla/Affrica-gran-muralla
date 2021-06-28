@@ -59,10 +59,10 @@
 <!-- BLOG-POST-LIST:START -->
 - [La Gran Muralla Verde Affrica
 ](https://africa-y-el-muro-verde.blogspot.com//feeds/posts/default?alt=rss)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [África planta una gran muralla verde](https://africayelmuroverde.wordpress.com/feed/)
+- [Notion + YouTube](https://www.youtube.com/feeds/videos.xml?channel_id=UCdt1T59bA2vgA05Bg_xgmQg)
+- [Affrica Gran Muralla Verde](https://www.pinterest.es/africagranmuralla/gran-muralla-verde.rss)
+- [Emmet Part 2 - Advanced](https://on.narro.co/africagranmuralla)
 <!-- BLOG-POST-LIST:END -->
 
 
