@@ -18,55 +18,13 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-### Languages and Tools:
+Na www.cinemak.pl można znaleźć filmy online posortowane według gatunku i roku produkcji. Dlatego, gdy użytkownicy chcą mieć dobry film, mogą łatwo znaleźć film w Internecie. Jeśli szukasz filmów w Internecie, znajdziesz dzieła, które na stałe weszły do ​​historii kina i nowe tytuły. Zapraszamy do wyboru gatunku - będziemy regularnie dodawać nowe filmy do naszej bazy!
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+ 
+Jeśli interesują Cię bardziej popularne filmy i filmy niszowe, z pewnością znajdziesz tu ciekawe prace. Dzięki nam otrzymasz legalne linki do najnowszych prac i prac wykonanych jakiś czas temu. Serwis Zalukaj udostępnia ponad 20 gatunków filmowych, które zostały odpowiednio skatalogowane – wszystkie mają na celu ułatwienie użytkownikom portalu Zalukaj przeglądania serwisu. Dzięki nam szybko dowiesz się o ocenach i opisach filmów lub seriali – wystarczy kliknąć na interesującą Cię produkcję. Pokazujemy użytkownikom, gdzie mogą zobaczyć daną pracę. Nasz portal będzie dla Ciebie idealny, niezależnie od tego, czy oglądanie filmu jest dla Ciebie tylko rozrywką, sposobem na zabicie wolnego czasu, czy czymś więcej – pasją.
 
-<br />
-<br />
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [¡África está "construyendo" una gran muralla verde!](https://youtu.be/ZB2qjidd060)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [La Gran Muralla Verde Affrica
-](https://africa-y-el-muro-verde.blogspot.com//feeds/posts/default?alt=rss)
-- [África planta una gran muralla verde](https://africayelmuroverde.wordpress.com/feed/)
-- [Notion + YouTube](https://www.youtube.com/feeds/videos.xml?channel_id=UCdt1T59bA2vgA05Bg_xgmQg)
-- [Affrica Gran Muralla Verde](https://www.pinterest.es/africagranmuralla/gran-muralla-verde.rss)
-- [Emmet Part 2 - Advanced](https://on.narro.co/africagranmuralla)
-<!-- BLOG-POST-LIST:END -->
-
-
-
----
-
+ 
+Możesz być pewien, że od czasu do czasu znajdziesz na portalu nowe tytuły filmów i seriali. Jeśli chcesz wiedzieć, co oferuje portal Zalukaj, sprawdź wszystkie gatunki filmowe na stronie. Możesz także wyrazić swoje zdanie na temat filmu i wysłuchać opinii innych widzów. Na Zalukaju można również znaleźć kolumny najwyżej ocenianych filmów od lat, które są uważane za kultowe w swoim gatunku lub po prostu warte obejrzenia. Nie ma wątpliwości, że każdy użytkownik Zalukaja, który chce być dobrym miłośnikiem filmów, powinien znać tę rubrykę. Nasz portal stale się rozwija, dzięki czemu możemy lepiej odpowiadać na potrzeby użytkowników i pokazywać legalne VOD. Zachęcamy wszystkich fanów i osoby, które po prostu chcą oglądać świetne treści, do regularnego odwiedzania naszego portalu Zalukaj – zawsze będziemy w stanie zapewnić Wam ciekawe treści do oglądania.
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
