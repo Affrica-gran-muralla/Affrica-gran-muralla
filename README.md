@@ -39,4 +39,4 @@ Możesz być pewien, że od czasu do czasu znajdziesz na portalu nowe tytuły fi
 [twitter]: https://twitter.com/cinemak_pl
 [youtube]: https://www.youtube.com/watch?v=ZB2qjidd060
 [linkedin]: https://www.linkedin.com/in/cinemak-filmy-online-307621223/
-
+[instagram]: https://www.instagram.com/cinemak_pl/
