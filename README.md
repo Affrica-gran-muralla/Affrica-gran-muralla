@@ -1,4 +1,4 @@
-### Hi there, Curiosidad Sin Limites - aka [Curiosidad Sin Limites][website] 👋
+### Cinemak.pl - [Filmy online za darmo][website] 👋
 
 [![Website](https://img.shields.io/website?label=https://cinemak.pl/)](https://cinemak.pl/)
 
